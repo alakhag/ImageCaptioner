@@ -28,6 +28,8 @@ $ sudo apt-get install fswebcam
 
 * How to run tests 
 
+Create "model" and "screenshot" directories in "img_caption_bot" directory
+
 Install Telegram app on your mobile. Create your account and search for user : @BotFather
 
 To create your Image Captioner chat app, message as follows:
