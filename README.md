@@ -50,4 +50,4 @@ Open Telegram and search for the username of your chat app.
 
 start with giving it command `/start`
 
-Now click photo and wait for output caption.
+Now send photo to app and wait for output caption.
