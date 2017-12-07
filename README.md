@@ -42,7 +42,7 @@ To create your Image Captioner chat app, message as follows:
 
 * Deployment instructions
 
-Clone this repository on your system. Download the [pretrained model checkpoint](http://cs.stanford.edu/people/karpathy/neuraltalk2/checkpoint_v1_cpu.zip) and extract it in model folder, which is currently empty.
+Clone this repository on your system. Download the [pretrained model checkpoint](http://cs.stanford.edu/people/karpathy/neuraltalk2/checkpoint_v1_cpu.zip) and extract it in "model" folder, which is currently empty.
 
 Run `python main.py`
 
