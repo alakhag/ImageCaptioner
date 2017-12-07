@@ -46,7 +46,7 @@ To create your Image Captioner chat app, message as follows:
 
 Clone this repository on your system. Download the [pretrained model checkpoint](http://cs.stanford.edu/people/karpathy/neuraltalk2/checkpoint_v1_cpu.zip) and extract it in "model" folder, which is currently empty.
 
-Open key.py and type `TOKEN = <your bot token>`
+Create key.py and type `TOKEN = <your bot token>`
 
 Run `python main.py`
 
